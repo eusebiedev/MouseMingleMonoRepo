@@ -6,6 +6,8 @@
 
 An dating app for rodents. User can login and see all the available rodents including their name, a photo, and a link to their further details. User can then upvote or downvote any of the rodents. 
 
+<img src="MouseMingleClient/wwwroot/img/logo.gif" />
+
 ## Technologies Used
 
 * C#
