@@ -22,14 +22,11 @@ An dating app for rodents. User can login and see all the available rodents incl
 * MySQL
 * RestSharp
 
-## Database Structure
-![photo of SQL designer](./MouseMingleClient/wwwroot/img/sqldesign.png)
-
 ## Instructions to set up database
 1. Clone this repo.
-2. Open your terminal (e.g. Terminal or GitBash) and navigate to this project's directory called "NationalParksApi".
+2. Open your terminal (e.g. Terminal or GitBash) and navigate to this project's directory called "MouseMingleApi".
 3. Set up the project:
-  * Create a file called 'appsettings.json' in MouseMingleMonoRepo.Solution/MouseMIngleApi directory
+  * Create a file called 'appsettings.json' in MouseMingleMonoRepo.Solution/MouseMingleApi directory
   * Add the following code to the appsettings.json file:
   ```
 {
@@ -70,7 +67,7 @@ An dating app for rodents. User can login and see all the available rodents incl
 }
   ```
 
-  * Create a file called appsettings.json in MouseMingleMonoRepo.Solution/MouseMIngleClient directory
+  * Create a file called appsettings.json in MouseMingleMonoRepo.Solution/MouseMingleClient directory
   * add the following code to appsettings.json:
 
   ```
